@@ -4,7 +4,7 @@ I learned to build this website in [The Complete 2020 Web Development Bootcamp](
 
 - This is a blog website where owner can compose and others can view his/her blogs.
 - Data is persisted using MongoDB Atlas.
-- Deployed on Heroku - https://intense-reef-23400.herokuapp.com/
+- Deployed on Render - https://blogs-app-k0nf.onrender.com
 
 How it looks ?
 ---------------
